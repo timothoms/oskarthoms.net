@@ -1,0 +1,35 @@
+name: "thoms"
+output_dir: "docs"
+author: "Oskar Timo Thoms"
+exclude: ["README.md"]
+navbar:
+  title: "Oskar Timo Thoms"
+  left:
+  - text: "Bio"
+    href: academic.html
+  - text: "Academic"
+    menu:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+  - text: "Links"
+    menu:
+      - text: "Reading"
+        href: links.html
+      - text: "Data"
+        href: links-data.html
+      - text: "Tools"
+        href: links-tools.html
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    df_print: "paged"
+    fig_width: 8
+    fig_height: 8
+    css: styles.css
+    theme: flatly
+    highlight: pygments
+editor_options:
+  chunk_output_type: console
