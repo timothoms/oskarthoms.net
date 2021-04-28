@@ -2,13 +2,15 @@
 title: "Academic Job Market"
 ---
 
-### Getting a PhD
+\  
+
+#### Getting a PhD
 
 * [Should You Get a Ph.D.? Only if you're crazy or crazy about your subject.](http://foreignpolicy.com/2013/04/15/should-you-get-a-ph-d/) (Dan Drezner)
 * [This wasn’t the PhD advice you were looking for](http://www.washingtonpost.com/posteverything/wp/2015/04/24/this-wasnt-the-phd-advice-you-were-looking-for/) (Dan Drezner)
 * [This is not the PhD advice you were Looking for, either](http://quantitativepeace.com/blog/2015/04/this-is-not-the-phd-advice-you-were-looking-for-either.html) (Michael Touchton)
 
-### Preparing for the Academic Job Market
+#### Preparing for the Academic Job Market
 
 * [Gearing Up for the Academic Job Market: Getting Your Packet Together](http://duckofminerva.com/2015/08/gearing-up-for-the-academic-job-market-getting-your-packet-together.html) (Amanda Murdie)
 * [So You’re on the Job Market, Part I: Preparation (Michael Flynn)](http://quantitativepeace.com/blog/2014/06/so-youre-on-the-job-market-part-i-preparation.html)
@@ -17,17 +19,17 @@ title: "Academic Job Market"
 * [Job Market Resources](http://www.saramitchell.org/jobmarket.html)
 * [Peridoctoral Stress Syndrome](http://www.insidehighered.com/advice/2016/02/24/psychological-trauma-shifting-grad-student-job-seeker-essay) (Tim Cassedy)
 
-### Cover Letter and Curriculum Vitae
+#### Cover Letter and Curriculum Vitae
 
 * [Academic cover letters: 10 top tips](http://www.theguardian.com/higher-education-network/blog/2013/nov/28/academic-cover-letters-10-tips) (Steve Joy)
 * [Common mistakes to avoid in academic job market submissions](http://www.raulpacheco.org/2017/07/common-mistakes-to-avoid-in-academic-job-market-submissions/) (Raul Pacheco-Vega)
 
-### Documents
+#### Documents
 
 * [Academic job applications: five mistakes to avoid](http://www.theguardian.com/higher-education-network/2015/oct/26/academic-job-applications-five-mistakes-to-avoid) (Steve Joy)
 * [Making a Statement](http://chroniclevitae.com/news/1619-making-a-statement) (Karen Kelsky)
 
-### Teaching Statement
+#### Teaching Statement
     
 * [How to Write a Statement of Teaching Philosophy](http://www.chronicle.com/article/How-to-Write-a-Statement-of/45133/) (Gabriela Montell)
 * [The Teaching Philosophy/Teaching Statement](http://www.crlt.umich.edu/tstrategies/tstpts) (U Michigan)
@@ -36,13 +38,13 @@ title: "Academic Job Market"
 * [Six Tips for Writing an Effective Teaching Statement](http://www.acs.org/content/acs/en/education/students/graduate/six-tips-for-writing-an-effective-teaching-statement.html) (Melanie M. Cooper)
 * [Guide to Preparing Teaching Statements and Dossiers](http://www.uvic.ca/learningandteaching/assets/docs/instructors/for-review/TA%20Professional%20Development%20and%20Information/Guide%20to%20Preparing%20Teaching%20Statements%20and%20Dossiers.pdf) (UVic)
 
-### Diversity Statement
+#### Diversity Statement
     
 * [Making Sense of the Diversity Statement](http://chroniclevitae.com/news/266-the-professor-is-in-making-sense-of-the-diversity-statement) (Karen Kelsky)
 * [Contributions to Diversity](http://facultyexcellence.ucsd.edu/c2d/index.html) (UCSD)
 * [The Diversity Statement](http://grad.uchicago.edu/sites/default/files/career-resources/DiversityStatement_Presentation.pdf) (U Chicago)
 
-### Job Ads
+#### Job Ads
 
 * [APSA ejobs](http://www.apsanet.org/eJobs)
 * [ChronicleVitae](http://chroniclevitae.com/job_search?job_search%5Bposition_type%5D=82)
@@ -50,7 +52,7 @@ title: "Academic Job Market"
 * [International Studies Association](http://www.isanet.org/Programs/Job-Board)
 * [H-Net](http://www.h-net.org/jobs/job_browse.php)
 
-### Job Talks
+#### Job Talks
 
 * [Giving a Job Talk](http://www.insidehighered.com/advice/2012/03/05/essay-how-give-job-talk) (Kathryn Hume, Mar 5, 2012)
 * [Grim Job Talks Are a Buzz Kill](http://www.chronicle.com/article/Grim-Job-Talks-Are-a-Buzz-Kill/132843/) (Dan Shapiro, Jul 16, 2012)
@@ -65,7 +67,7 @@ title: "Academic Job Market"
 * [So you want to give a good job talk in political science ...](http://www.washingtonpost.com/news/posteverything/wp/2017/09/13/so-you-want-to-give-a-good-job-talk-in-political-science/) (Dan Drezner, Sep 13, 2017)
 * [Why You Should Probably Write Out Your Job Talk](http://tompepinsky.com/2017/09/21/why-you-should-probably-write-out-your-job-talk/) (Tom Pepinsky, Sep 21, 2017)
 
-### Interviews
+#### Interviews
 
 * [Gearing Up for the Academic Job Market: Getting THE CALL](http://duckofminerva.com/2015/10/gearing-up-for-the-academic-job-market-getting-the-call.html) (Amanda Murdie)
 * [How to shine in an academic interview](http://www.theguardian.com/higher-education-network/blog/2014/feb/07/prepare-academic-interviews-top-tips) (Steve Joy)
@@ -73,7 +75,7 @@ title: "Academic Job Market"
 * [Doing Your Homework](http://www.insidehighered.com/advice/2015/06/24/essay-how-prepare-interview-academic-job) (Melissa Dennihy)
 * [Job Candidate Questions](http://www.apsanet.org/CAREERS/Careers-In-Political-Science/Job-Candidate-Questions-JCQ-Program) (APSA)
 
-### Waiting and Rejection
+#### Waiting and Rejection
 
 * [Gearing Yourself Up For the Academic Job Market: Waiting](http://duckofminerva.com/2015/07/gearing-yourself-up-for-the-academic-job-market-waiting.html) (Amanda Murdie)
 * [Going on the Job Market? Pick up Fifty Shades of Grey or a Ukulele!](http://duckofminerva.com/2013/03/going-on-the-job-market-pick-up-fifty-shades-of-grey-or-a-ukulele.html) (Amanda Murdie)

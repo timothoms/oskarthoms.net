@@ -2,25 +2,41 @@ name: "thoms"
 output_dir: "docs"
 author: "Oskar Timo Thoms"
 exclude: ["README.md"]
+type: inverse
 navbar:
   title: "Oskar Timo Thoms"
   left:
-  - text: "Bio"
-    href: academic.html
+  - text: "Consulting"
+    menu:
+    - text: "Consulting Services"
+      href: consulting.html
+    - text: "Lancet-SIGHT Commission Metrics Working Group"
+      href: https://timothoms.github.io/LSC-MWG/
   - text: "Academic"
     menu:
     - text: "Research"
       href: research.html
+    - text: "Publications"
+      href: publications.html
     - text: "Teaching"
       href: teaching.html
+  - text: "Community"
+    menu:
+    - text: "covid19Outaouais"
+      href: https://timothoms.github.io/covid19Outaouais/
+  right:
   - text: "Links"
     menu:
-      - text: "Reading"
-        href: links.html
-      - text: "Data"
-        href: links-data.html
-      - text: "Tools"
-        href: links-tools.html
+    - text: "Data"
+      href: links-data.html
+    - text: "Reading"
+      href: links-reading.html
+    - text: "R"
+      href: links-r.html
+    - text: "Tools"
+      href: links-tools.html
+  - text: "Contact"
+    href: contact.html
 output:
   html_document:
     toc: true
@@ -28,8 +44,7 @@ output:
     df_print: "paged"
     fig_width: 8
     fig_height: 8
-    css: styles.css
-    theme: flatly
+    theme: darkly
     highlight: pygments
 editor_options:
   chunk_output_type: console
