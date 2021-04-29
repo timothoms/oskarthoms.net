@@ -8,8 +8,8 @@ navbar:
   left:
   - text: "Consulting"
     menu:
-    - text: "Consulting Services"
-      href: consulting.html
+    # - text: "Consulting Services"
+    #   href: consulting.html
     - text: "Lancet-SIGHT Commission Metrics Working Group"
       href: https://timothoms.github.io/LSC-MWG/
   - text: "Academic"

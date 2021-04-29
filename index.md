@@ -7,7 +7,7 @@ title: ""
 
 <div class = "row">
 
-<div class = "col-md-6">
+<div class = "col-md-8">
 
 Dr. Oskar Timo Thoms currently works as a research and statistical consultant. 
 
@@ -17,6 +17,6 @@ He has co-authored scholarly articles in [*Comparative Political studies*](https
 
 </div>
 
-<div class = "col-md-6">
-![](files/EoandPapaTCIs.jpg) 
+<div class = "col-md-4">
+![](files/sea2sky.jpeg) 
 </div>

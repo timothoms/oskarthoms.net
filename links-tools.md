@@ -38,5 +38,5 @@ title: "Tools"
 
 * [Homebrew](http://brew.sh/) (macOS package manager)
 * [git](https://git-scm.com/) (version control)
-* [Objective-See](https://objective-see.com/) (free macOS security tools)
+* [Objective-See](https://objective-see.com/) (open source macOS security tools)
 * [W3Schools](https://www.w3schools.com/) (HTML reference)
