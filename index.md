@@ -18,5 +18,5 @@ He has co-authored scholarly articles in [*Comparative Political studies*](https
 </div>
 
 <div class = "col-md-4">
-![](files/sea2sky.jpeg) 
+![](files/sea2sky.jpeg)
 </div>
