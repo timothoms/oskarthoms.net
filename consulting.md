@@ -38,7 +38,7 @@ I bring the following to my consulting work:
 
 * Transparency and reproducibility of quantitative analyses 
 
-* Substantive interests in issues of human rights, justice and public policy
+* Substantive interests in issues of human rights, justice and public policy in Canada and globally
 
 * Methodological interests in quantitative measurement, survey data and computational social science
 
