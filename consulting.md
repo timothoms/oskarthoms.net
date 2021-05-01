@@ -30,9 +30,9 @@ I bring the following to my consulting work:
 
 * Extensive experience in data management and quantitative analysis
 
-* More than 11 years of experience coding in the R statistical programming language (I also have experience working in Stata)
+* More than 11 years of experience coding in the R statistical programming language (also experience in Stata)
 
-* I have taught MA-level statistics and R and served as a statistical consultant 
+* I have taught MA-level and undergraduate statistics and R and served as a statistical consultant 
 
 * Attention to detail and best practices
 
@@ -42,7 +42,7 @@ I bring the following to my consulting work:
 
 * Methodological interests in quantitative measurement, survey data and computational social science
 
-* I have consulted on policy research projects funded by the Canadian Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), and the International Development Research Centre
+* I have consulted on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), and the International Development Research Centre
 
 \  
 

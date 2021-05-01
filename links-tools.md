@@ -6,6 +6,8 @@ title: "Tools"
 
 Unless otherwise specified, all software listed on this page is open source and free. 
 
+\  
+
 #### Creating Documents
 
 * [The LaTeX Project](http://www.latex-project.org) (typesetting)
@@ -22,7 +24,7 @@ Unless otherwise specified, all software listed on this page is open source and 
 * [Agenda](http://www.agenda.com) (notes linked to dates, supports Markdown, neither open source, nor free)
 * [Simplenote](http://simplenote.com/) (notes synced across devices, supports Markdown)
 * [nvAlt](http://brettterpstra.com/projects/nvalt/) (very fast notes app for macOS)
-* [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/) (Kieran Healy)
+* [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/) 
 * [CommonMark](http://commonmark.org/) (Markdown specification) 
 * [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) (Markdown specification)
 * [Pandoc's Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) (Markdown specification)
