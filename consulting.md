@@ -30,7 +30,7 @@ I bring the following to my consulting work:
 
 * Extensive experience in data management and quantitative analysis
 
-* More than 12 years of experience coding in the R statistical programming language (I also have experience working in Stata)
+* More than 11 years of experience coding in the R statistical programming language (I also have experience working in Stata)
 
 * I have taught MA-level statistics and R and served as a statistical consultant 
 
