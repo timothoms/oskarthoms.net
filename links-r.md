@@ -13,7 +13,7 @@ title: "R"
 
 #### Books on R programming
 
-* [Advanced R](https://adv-r.hadley.nz/) [[previous edition](http://adv-r.had.co.nz) / [Advanced R Solutions](https://bookdown.org/Tazinho/Advanced-R-Solutions/)] 
+* [Advanced R](https://adv-r.hadley.nz/) [[previous edition](http://adv-r.had.co.nz) / [Advanced R Exercise Solutions](https://bookdown.org/Tazinho/Advanced-R-Solutions/)] 
 * [R Packages](https://r-pkgs.org/)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
@@ -23,7 +23,7 @@ https://r-graphics.org/
 
 #### Books on data science in R
 
-* [R for Data Science](http://r4ds.had.co.nz/)
+* [R for Data Science](http://r4ds.had.co.nz/) / [R for Data Science](https://ryanstutorials.net/rubiks-cube-tutorial/)] 
 * [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 * [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse](https://moderndive.com/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
