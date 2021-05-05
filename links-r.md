@@ -9,7 +9,7 @@ title: "R"
 * [R](http://www.r-project.org) (statistical programming language)
 * [RStudio](http://www.rstudio.com) (open source R IDE)
 * [Shiny](http://shiny.rstudio.com/) (web application framework for R)
-* [Tidyverse Packages](http://www.tidyverse.org/)
+* [Tidyverse](http://www.tidyverse.org/)
 
 #### Books on R programming
 
