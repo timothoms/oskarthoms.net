@@ -14,11 +14,11 @@ I am available for the following consulting services:
 
 * Data science and statistical programming in R
 
-* Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration)
-
 * Building datasets
 
 * Automated data collection, including webscraping
+
+* Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration)
 
 * Editing and technical document preparation in LaTeX and RMarkdown
 
@@ -34,11 +34,11 @@ I bring the following to my consulting work:
 
 * I have taught MA-level and undergraduate statistics and R and served as a statistical consultant 
 
-* Attention to detail and best practices
+* Meticulous attention to detail and best practices
 
 * Transparency and reproducibility of quantitative analyses 
 
-* Substantive interests in issues of human rights, justice and public policy in Canada and globally
+* Substantive interests in issues of justice, human rights, and public policy in Canada and globally
 
 * Methodological interests in quantitative measurement, survey data and computational social science
 
