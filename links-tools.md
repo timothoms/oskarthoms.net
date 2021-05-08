@@ -73,6 +73,7 @@ Unless otherwise noted, software listed here is open source and free. On macOS, 
 #### PDF 
 
 * [Skim](https://skim-app.sourceforge.io/) (PDF reader and annotator)
+* [Textricator](https://textricator.mfj.io/) (PDF text extraction)
 * [Tabula](https://tabula.technology/) (PDF table extraction)
 
 #### Other 
