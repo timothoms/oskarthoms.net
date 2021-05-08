@@ -75,6 +75,7 @@ Unless otherwise noted, software listed here is open source and free. On macOS, 
 * [Skim](https://skim-app.sourceforge.io/) (PDF reader and annotator)
 * [Textricator](https://textricator.mfj.io/) (PDF text extraction)
 * [Tabula](https://tabula.technology/) (PDF table extraction)
+* [Excalibur](https://excalibur-py.readthedocs.io/en/master/) / [Camelot](https://camelot-py.readthedocs.io/en/master/) (PDF table extraction)
 
 #### Other 
 
