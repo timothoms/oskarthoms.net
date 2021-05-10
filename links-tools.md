@@ -38,7 +38,7 @@ Unless otherwise noted, software listed here is open source and free. On macOS, 
 * [Virtual Studio Code](http://code.visualstudio.com/)
 * [Zettlr](http://www.zettlr.com/) (IDE for writing)
 * [Modern CSV](https://www.moderncsv.com/) (excellent, fast CSV editor, neither open source, nor free for premium features)
-* [git](https://git-scm.com/) (version control)
+* [git](https://git-scm.com/) (version control) [[Pro Git (book)](https://git-scm.com/book/en/v2)]
 * [GitHub](https://github.com/) (version control collaboration with yourself and others)
 
 #### macOS
