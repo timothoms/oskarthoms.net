@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Tools</title>
+
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Oskar Timo Thoms</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Consulting
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="consulting.html">Consulting Services</a>
+    </li>
+    <li>
+      <a href="https://timothoms.github.io/LSC-MWG/">Lancet-SIGHT Commission Metrics Working Group</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Academic
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="research.html">Research</a>
+    </li>
+    <li>
+      <a href="publications.html">Publications</a>
+    </li>
+    <li>
+      <a href="teaching.html">Teaching</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Community
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="https://timothoms.github.io/covid19Outaouais/">covid19Outaouais</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Links
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="links-data.html">Data</a>
+    </li>
+    <li>
+      <a href="links-reading.html">Reading</a>
+    </li>
+    <li>
+      <a href="links-r.html">R</a>
+    </li>
+    <li>
+      <a href="links-tools.html">Tools</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contact.html">Contact</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Tools</h1>
+
+</div>
+
+
+<p> </p>
+<p>Unless otherwise noted, software listed here is open source and free. On macOS, most can be installed and maintained with <a href="http://brew.sh/">Homebrew</a>.</p>
+<p> </p>
+<div id="creating-documents" class="section level4">
+<h4>Creating documents</h4>
+<ul>
+<li><a href="http://www.latex-project.org">The LaTeX Project</a> (typesetting)</li>
+<li><a href="http://www.tug.org/mactex/">macTeX</a> (LaTeX distribution for macOS)</li>
+<li><a href="http://tug.ctan.org/info/lshort/english/lshort.pdf">The Not So Short Introduction to LaTeX2ε</a> (.pdf)</li>
+<li><a href="http://www.ctan.org/tex-archive/info/beginlatex">formatting information: A beginner’s introduction to typesetting with LaTeX</a> (book)</li>
+<li><a href="http://pandoc.org/index.html">Pandoc</a> (powerful document converter)</li>
+<li><a href="http://www.sonnysoftware.com/bookends/bookends.html">Bookends</a> (good, customizable reference manager for macOS, neither open source, nor free)</li>
+<li><a href="http://www.zotero.org">Zotero</a> (reference manager)</li>
+<li><a href="http://www.ctan.org/pkg/biblatex">biblatex</a> (state-of-the-art citations in LaTeX)</li>
+</ul>
+</div>
+<div id="notes-markdown" class="section level4">
+<h4>Notes &amp; Markdown</h4>
+<ul>
+<li><a href="http://www.agenda.com">Agenda</a> (notes linked to dates, supports Markdown, excellent, neither open source, nor free for premium features)</li>
+<li><a href="http://simplenote.com/">Simplenote</a> (notes synced across devices, supports Markdown)</li>
+<li><a href="http://brettterpstra.com/projects/nvalt/">nvAlt</a> (very fast notes app for macOS)</li>
+<li><a href="http://plain-text.co/">The Plain Person’s Guide to Plain Text Social Science</a></li>
+<li><a href="http://commonmark.org/">CommonMark</a> (Markdown specification)</li>
+<li><a href="http://fletcherpenney.net/multimarkdown/">MultiMarkdown</a> (Markdown specification)</li>
+<li><a href="http://pandoc.org/MANUAL.html#pandocs-markdown">Pandoc’s Markdown</a> (Markdown specification)</li>
+<li><a href="https://rmarkdown.rstudio.com/">RMarkdown</a></li>
+</ul>
+</div>
+<div id="editors-version-control" class="section level4">
+<h4>Editors &amp; version control</h4>
+<ul>
+<li><a href="http://www.sublimetext.com">Sublime Text</a> [<a href="http://www.sublimetext.com/docs/3/">official documentation</a>] (awesome editor, neither open source, nor free)</li>
+<li><a href="http://atom.io">Atom</a></li>
+<li><a href="http://chhekur.github.io/colon-ide/">Colon</a></li>
+<li><a href="http://code.visualstudio.com/">Virtual Studio Code</a></li>
+<li><a href="http://www.zettlr.com/">Zettlr</a> (IDE for writing)</li>
+<li><a href="https://www.moderncsv.com/">Modern CSV</a> (excellent, fast CSV editor, neither open source, nor free for premium features)</li>
+<li><a href="https://git-scm.com/">git</a> (version control)</li>
+<li><a href="https://github.com/">GitHub</a> (version control collaboration with yourself and others)</li>
+</ul>
+</div>
+<div id="macos" class="section level4">
+<h4>macOS</h4>
+<ul>
+<li><a href="http://brew.sh/">Homebrew</a> (package manager)</li>
+<li><a href="https://objective-see.com/">Objective-See</a> (security tools)</li>
+<li><a href="https://macdaddy.io/mac-backup-software/">Mac Backup Guru</a> (bootable backups)</li>
+<li><a href="https://www.titanium-software.fr/en/onyx.html">OnyX</a> (multifunction utility)</li>
+<li><a href="https://www.mediaatelier.com/CheatSheet/">CheatSheet</a> (help with keyboard shortcuts)</li>
+<li><a href="https://www.macscheduler.net/index.html">Scheduler</a></li>
+<li><a href="https://justgetflux.com/">f.lux</a> (adjust screen colour according to time of day)</li>
+<li><a href="https://rectangleapp.com/">Rectangle</a> (window management)</li>
+</ul>
+</div>
+<div id="security" class="section level4">
+<h4>Security</h4>
+<ul>
+<li><a href="http://pwsafe.info/">pwSafe</a> (password manager)</li>
+<li><a href="https://cryptomator.org/">Cryptomator</a> (file encryption)</li>
+<li><a href="https://onionshare.org/">OnionShare</a> (secure and anonymous sharing)</li>
+</ul>
+</div>
+<div id="web-including-development" class="section level4">
+<h4>Web (including development)</h4>
+<ul>
+<li><a href="https://www.mozilla.org/en-CA/firefox/new/">Firefox</a> (my preferred everyday browser)</li>
+<li><a href="https://www.chromium.org/">Chromium</a> (my preferred browser for certain tasks, including Google Sheets, Developer tools, etc)</li>
+<li><a href="https://www.w3schools.com/">W3Schools</a> (web technologies reference)</li>
+<li><a href="https://jekyllrb.com/">Jekyll</a> (static website generator)</li>
+<li><a href="https://gohugo.io/">Hugo</a> (static website generator)</li>
+<li><a href="https://getbootstrap.com/">Bootstrap</a> (front-end web framework)</li>
+<li><a href="https://www.gatsbyjs.com/">Gatsby</a> (front-end web framework)</li>
+<li><a href="https://cyberduck.io/">Cyberduck</a> (cloud storage browser, i.e. FTP etc)</li>
+<li><a href="https://colorpicker.fr/">Colorpicker</a></li>
+</ul>
+</div>
+<div id="pdf" class="section level4">
+<h4>PDF</h4>
+<ul>
+<li><a href="https://skim-app.sourceforge.io/">Skim</a> (PDF reader and annotator)</li>
+<li><a href="https://textricator.mfj.io/">Textricator</a> (PDF text extraction)</li>
+<li><a href="https://tabula.technology/">Tabula</a> (PDF table extraction)</li>
+<li><a href="https://excalibur-py.readthedocs.io/en/master/">Excalibur (web interface)</a> / <a href="https://camelot-py.readthedocs.io/en/master/">Camelot (command line)</a> (PDF table extraction)</li>
+</ul>
+</div>
+<div id="other" class="section level4">
+<h4>Other</h4>
+<ul>
+<li><a href="https://syncthing.net/">Syncthing</a> (continuous file synchronization)</li>
+<li><a href="https://abhishekbanthia.com/clocker/">Clocker</a> (timezone tool for macOS)</li>
+<li><a href="https://getkap.co/">Kap</a> (screen recordings)</li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
