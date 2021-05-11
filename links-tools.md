@@ -6,12 +6,12 @@ title: "Tools"
 
 #### Creating documents
 
-* [The LaTeX Project](http://www.latex-project.org) (typesetting)
+* [The LaTeX Project](http://www.latex-project.org) (professional typesetting)
 * [macTeX](http://www.tug.org/mactex/) (LaTeX distribution for macOS)
 * [The Not So Short Introduction to LaTeX2ε](http://tug.ctan.org/info/lshort/english/lshort.pdf) (.pdf)
-* [formatting information: A beginner’s introduction to typesetting with LaTeX](http://www.ctan.org/tex-archive/info/beginlatex) (book)
+* [formatting information: A beginner’s introduction to typesetting with LaTeX](http://www.ctan.org/tex-archive/info/beginlatex)
 * [Pandoc](http://pandoc.org/index.html) (powerful document converter)
-* [Bookends](http://www.sonnysoftware.com/bookends/bookends.html) (good, customizable reference manager for macOS, neither open source, nor free) 
+* [Bookends](http://www.sonnysoftware.com/bookends/bookends.html) (customizable reference manager for macOS, neither open source, nor free) 
 * [Zotero](http://www.zotero.org) (reference manager) 
 * [biblatex](http://www.ctan.org/pkg/biblatex) (state-of-the-art citations in LaTeX) 
 
@@ -71,7 +71,7 @@ title: "Tools"
 * [Skim](https://skim-app.sourceforge.io/) (PDF reader and annotator)
 * [Textricator](https://textricator.mfj.io/) (PDF text extraction)
 * [Tabula](https://tabula.technology/) (PDF table extraction)
-* [Excalibur (web interface)](https://excalibur-py.readthedocs.io/en/master/) / [Camelot (command line)](https://camelot-py.readthedocs.io/en/master/) (PDF table extraction)
+* [Camelot (command line)](https://camelot-py.readthedocs.io/en/master/) (PDF table extraction) [[Excalibur](https://excalibur-py.readthedocs.io/en/master/) (web interface)]
 
 #### Other 
 
