@@ -4,7 +4,7 @@ title: "Consulting Services"
 
 \  
 
-I am available for the following consulting services:
+I provide the following consulting services:
 
 * Research and writing
 
@@ -12,37 +12,37 @@ I am available for the following consulting services:
 
 * Data visualization 
 
-* Data science and statistical programming in R
-
 * Building datasets
 
 * Automated data collection, including webscraping
 
-* Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration)
+* Data science and statistical programming in R
 
-* Editing and technical document preparation in LaTeX and RMarkdown
+* Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration, RMarkdown)
 
 \  
 
 I bring the following to my consulting work:
 
-* PhD in political science and international relations, with first-class quantitative methods training
+* PhD (Princeton University) in political science and international relations, with first-class quantitative methods training
+
+* Research expertise in issues of justice, human rights, and public policy
 
 * Extensive experience in data management and quantitative analysis
-
-* More than 11 years of experience coding in the R statistical programming language (also experience in Stata)
-
-* I have taught MA-level and undergraduate statistics and R and served as a statistical consultant 
 
 * Meticulous attention to detail and best practices
 
 * Transparency and reproducibility of quantitative analyses 
 
-* Substantive interests in issues of justice, human rights, and public policy in Canada and globally
+* More than 11 years of experience coding in the R statistical programming language (also experience in Stata)
 
-* Methodological interests in quantitative measurement, survey data and computational social science
+* I have taught MA-level and undergraduate statistics and R and served as a statistical consultant
 
-* I have consulted on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), and the International Development Research Centre
+* Editing and technical document preparation in a wide variety of formats, including websites
+
+* Development of methodological solutions to explore your policy research questions
+
+* I have consulted on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation
 
 \  
 

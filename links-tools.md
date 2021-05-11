@@ -4,10 +4,6 @@ title: "Tools"
 
 \  
 
-Unless otherwise noted, software listed here is open source and free. On macOS, most can be installed and maintained with [Homebrew](http://brew.sh/).
-
-\  
-
 #### Creating documents
 
 * [The LaTeX Project](http://www.latex-project.org) (typesetting)
@@ -32,13 +28,13 @@ Unless otherwise noted, software listed here is open source and free. On macOS, 
 
 #### Editors & version control
 
-* [Sublime Text](http://www.sublimetext.com) [[official documentation](http://www.sublimetext.com/docs/3/)] (awesome editor, neither open source, nor free)
+* [Sublime Text](http://www.sublimetext.com) (awesome editor, neither open source, nor free) [[official documentation](http://www.sublimetext.com/docs/3/)]
 * [Atom](http://atom.io) 
 * [Colon](http://chhekur.github.io/colon-ide/)
 * [Virtual Studio Code](http://code.visualstudio.com/)
 * [Zettlr](http://www.zettlr.com/) (IDE for writing)
 * [Modern CSV](https://www.moderncsv.com/) (excellent, fast CSV editor, neither open source, nor free for premium features)
-* [git](https://git-scm.com/) (version control) [[Pro Git (book)](https://git-scm.com/book/en/v2)]
+* [git](https://git-scm.com/) (version control) [[Pro Git book](https://git-scm.com/book/en/v2)] 
 * [GitHub](https://github.com/) (version control collaboration with yourself and others)
 
 #### macOS
@@ -82,3 +78,7 @@ Unless otherwise noted, software listed here is open source and free. On macOS, 
 * [Syncthing](https://syncthing.net/) (continuous file synchronization)
 * [Clocker](https://abhishekbanthia.com/clocker/) (timezone tool for macOS)
 * [Kap](https://getkap.co/) (screen recordings)
+
+\  
+
+Unless otherwise noted, software listed here is open source and free. On macOS, most can be installed and maintained with [Homebrew](http://brew.sh/).

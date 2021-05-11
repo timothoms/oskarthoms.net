@@ -1,5 +1,5 @@
 name: "thoms"
-output_dir: "docs"
+output_dir: "site"
 author: "Oskar Timo Thoms"
 exclude: ["README.md"]
 type: inverse
@@ -46,5 +46,8 @@ output:
     fig_height: 8
     theme: darkly
     highlight: pygments
+    includes:
+      in_header: "_html/header.html"
+      # after_body: "_html/footer.html"
 editor_options:
   chunk_output_type: console
