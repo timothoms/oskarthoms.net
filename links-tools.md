@@ -8,7 +8,7 @@ title: "Tools"
 
 * [The LaTeX Project](http://www.latex-project.org) (professional typesetting)
 * [macTeX](http://www.tug.org/mactex/) (LaTeX distribution for macOS)
-* [The Not So Short Introduction to LaTeX2ε](http://tug.ctan.org/info/lshort/english/lshort.pdf) (.pdf)
+* [The Not So Short Introduction to LaTeX2ε](http://tug.ctan.org/info/lshort/english/lshort.pdf) (PDF)
 * [formatting information: A beginner’s introduction to typesetting with LaTeX](http://www.ctan.org/tex-archive/info/beginlatex)
 * [Pandoc](http://pandoc.org/index.html) (powerful document converter)
 * [Bookends](http://www.sonnysoftware.com/bookends/bookends.html) (customizable reference manager for macOS, neither open source, nor free) 
@@ -17,8 +17,8 @@ title: "Tools"
 
 #### Notes & Markdown
 
-* [Agenda](http://www.agenda.com) (notes linked to dates, supports Markdown, excellent, neither open source, nor free for premium features)
-* [Simplenote](http://simplenote.com/) (notes synced across devices, supports Markdown)
+* [Agenda](http://www.agenda.com) (excellent, notes linked to dates, neither open source, nor free for premium features)
+* [Simplenote](http://simplenote.com/) (notes synced across devices)
 * [nvAlt](http://brettterpstra.com/projects/nvalt/) (very fast notes app for macOS)
 * [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/) 
 * [CommonMark](http://commonmark.org/) (Markdown specification) 

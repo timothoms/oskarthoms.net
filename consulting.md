@@ -8,15 +8,11 @@ I provide the following consulting services:
 
 * Research and writing
 
-* Quantitative data analysis 
-
-* Data visualization 
-
-* Building datasets
-
-* Automated data collection, including webscraping
+* Quantitative data analysis and visualization 
 
 * Data science and statistical programming in R
+
+* Building datasets and automated data collection, including webscraping
 
 * Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration, RMarkdown)
 
@@ -24,7 +20,7 @@ I provide the following consulting services:
 
 I bring the following to my consulting work:
 
-* PhD (Princeton University) in political science and international relations, with first-class quantitative methods training
+* PhD (from Princeton University) in political science and international relations, with first-class quantitative methods training
 
 * Research expertise in issues of justice, human rights, and public policy
 
@@ -34,16 +30,15 @@ I bring the following to my consulting work:
 
 * Transparency and reproducibility of quantitative analyses 
 
-* More than 11 years of experience coding in the R statistical programming language (also experience in Stata)
+* Development of methodological approaches to explore policy research questions
 
-* I have taught MA-level and undergraduate statistics and R and served as a statistical consultant
+* More than 11 years of experience coding extensively in the R statistical programming language
+
+* I have taught MA-level and undergraduate statistics in R and served as a statistical consultant in R and Stata
 
 * Editing and technical document preparation in a wide variety of formats, including websites
 
-* Development of methodological solutions to explore your policy research questions
-
-* I have consulted on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation
-
+* I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation
 \  
 
 For inquiries and my CV, please [contact](contact.html) me.

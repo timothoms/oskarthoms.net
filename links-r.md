@@ -6,10 +6,11 @@ title: "R"
 
 #### Statistical Programming in R
 
-* [R](http://www.r-project.org) (statistical programming language)
-* [RStudio](http://www.rstudio.com) (open source R IDE)
-* [Shiny](http://shiny.rstudio.com/) (web application framework for R)
+* [R](http://www.r-project.org)
+* [RStudio](http://www.rstudio.com) (open source IDE)
+* [Shiny](http://shiny.rstudio.com/) (web application framework)
 * [Tidyverse](http://www.tidyverse.org/)
+* [RSwitch](https://rud.is/rswitch/) (macOS menubar utility)
 
 #### Books on R programming
 
@@ -47,7 +48,3 @@ title: "R"
 * [Cookbook for R](http://www.cookbook-r.com/)
 * [IDRE UCLA](http://stats.idre.ucla.edu/r/)
 * [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/index.html)
-
-#### Other 
-
-* [RSwitch](https://rud.is/rswitch/) (macOS menubar utility)
