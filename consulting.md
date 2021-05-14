@@ -39,6 +39,7 @@ I bring the following to my consulting work:
 * Editing and technical document preparation in a wide variety of formats, including websites
 
 * I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation
+
 \  
 
 For inquiries and my CV, please [contact](contact.html) me.
