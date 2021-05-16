@@ -37,6 +37,10 @@ navbar:
       href: links-tools.html
   - text: "Contact"
     href: contact.html
+  # - icon: fa-github fa-lg
+  #   href: https://github.com/timothoms/
+  # - icon: fa-twitter fa-lg
+  #   href: https://twitter.com/TimoThoms
 output:
   html_document:
     toc: true
@@ -48,6 +52,6 @@ output:
     highlight: pygments
     includes:
       in_header: "_html/header.html"
-      # after_body: "_html/footer.html"
+      after_body: "_html/include_footer.html"
 editor_options:
   chunk_output_type: console
