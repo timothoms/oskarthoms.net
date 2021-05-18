@@ -25,6 +25,8 @@ navbar:
     - text: "covid19Outaouais"
       href: https://timothoms.github.io/covid19Outaouais/
   right:
+  # - icon: "fab fa-twitter"
+  #   href: https://twitter.com/TimoThoms
   - text: "Links"
     menu:
     - text: "Data"
@@ -37,10 +39,6 @@ navbar:
       href: links-tools.html
   - text: "Contact"
     href: contact.html
-  # - icon: fa-github fa-lg
-  #   href: https://github.com/timothoms/
-  # - icon: fa-twitter fa-lg
-  #   href: https://twitter.com/TimoThoms
 output:
   html_document:
     toc: true

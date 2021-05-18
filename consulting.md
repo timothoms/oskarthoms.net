@@ -20,9 +20,11 @@ I provide the following consulting services:
 
 I bring the following to my consulting work:
 
-* PhD (from Princeton University) in political science and international relations, with first-class quantitative methods training
+* PhD (Princeton University) in political science, with focus on international relations, quantitative methods, and comparative politics
 
-* Research expertise in issues of justice, human rights, and public policy
+* Research expertise in issues of human rights, justice, and public policy
+
+* First-class quantitative methods training
 
 * Extensive experience in data management and quantitative analysis
 
