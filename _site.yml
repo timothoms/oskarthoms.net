@@ -31,8 +31,8 @@ navbar:
     menu:
     - text: "Data"
       href: links-data.html
-    - text: "Reading"
-      href: links-reading.html
+    # - text: "Reading"
+    #   href: links-reading.html
     - text: "R"
       href: links-r.html
     - text: "Tools"
