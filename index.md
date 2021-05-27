@@ -1,5 +1,5 @@
 ---
-pagetitle: "Bio"
+pagetitle: "Oskar Timo Thoms: Bio"
 title: ""
 ---
 

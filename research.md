@@ -1,4 +1,5 @@
 ---
+pagetitle: "Oskar Timo Thoms: Research"
 title: "Research"
 ---
 

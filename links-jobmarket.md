@@ -1,4 +1,5 @@
 ---
+pagetitle: "Academic Job Market Links"
 title: "Academic Job Market"
 ---
 

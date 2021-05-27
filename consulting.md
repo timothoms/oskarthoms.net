@@ -1,4 +1,5 @@
 ---
+pagetitle: "Oskar Timo Thoms: Consulting Services"
 title: "Consulting Services"
 ---
 

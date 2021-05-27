@@ -1,4 +1,5 @@
 ---
+pagetitle: "R Links"
 title: "R"
 ---
 
