@@ -13,7 +13,7 @@ I provide the following consulting services:
 
 * Data science and statistical programming in R
 
-* Building datasets and automated data collection, including webscraping
+* Building datasets and automated data collection (incl. webscraping)
 
 * Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration, RMarkdown)
 
@@ -33,13 +33,13 @@ I bring the following to my consulting work:
 
 * Transparency and reproducibility of quantitative analyses 
 
-* Development of methodological approaches to explore policy research questions
+* Development of methodological approaches to examine policy research questions
 
-* More than 11 years of experience coding extensively in the R statistical programming language
+* More than 12 years of experience coding extensively in the R statistical programming language
 
-* I have taught MA-level and undergraduate statistics in R and served as a statistical consultant in R and Stata
+* I have taught MA-level and undergraduate statistics and served as a statistical consultant (in R and Stata)
 
-* Editing and technical document preparation in a wide variety of formats, including websites
+* Editing and technical document preparation in a wide variety of formats (incl. websites)
 
 * I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation
 

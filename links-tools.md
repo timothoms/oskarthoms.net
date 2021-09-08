@@ -33,7 +33,7 @@ title: "Tools"
 * [Atom](http://atom.io)(text editor)
 * [Colon](http://chhekur.github.io/colon-ide/)
 * [Virtual Studio Code](http://code.visualstudio.com/) (text editor)
-* [Zettlr](http://www.zettlr.com/) (text editor / IDE for writing)
+* [Zettlr](http://www.zettlr.com/) (IDE for writing)
 * [Modern CSV](https://www.moderncsv.com/) (excellent, fast CSV editor, neither open source, nor free for premium features)
 * [git](https://git-scm.com/) (version control) [[Pro Git book](https://git-scm.com/book/en/v2)] 
 * [GitHub](https://github.com/) (version control collaboration with yourself and others)
