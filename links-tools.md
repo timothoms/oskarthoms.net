@@ -19,7 +19,7 @@ title: "Tools"
 #### Notes & Markdown
 
 * [Agenda](http://www.agenda.com) (excellent, notes linked to dates, neither open source, nor free for premium features)
-* [Simplenote](http://simplenote.com/) (notes synced across devices)
+* [Simplenote](http://simplenote.com/) (notes synced across devices and shared, simple and excellent)
 * [nvAlt](http://brettterpstra.com/projects/nvalt/) (very fast notes app for macOS)
 * [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/) 
 * [CommonMark](http://commonmark.org/) (Markdown specification) 
@@ -30,8 +30,8 @@ title: "Tools"
 #### Editors & version control
 
 * [Sublime Text](http://www.sublimetext.com) (awesome text editor / IDE, neither open source, nor free) [[official documentation](http://www.sublimetext.com/docs/3/)]
-* [Atom](http://atom.io)(text editor)
-* [Colon](http://chhekur.github.io/colon-ide/)
+* [Atom](http://atom.io) (text editor)
+* [Colon](http://chhekur.github.io/colon-ide/) (text editor)
 * [Virtual Studio Code](http://code.visualstudio.com/) (text editor)
 * [Zettlr](http://www.zettlr.com/) (IDE for writing)
 * [Modern CSV](https://www.moderncsv.com/) (excellent, fast CSV editor, neither open source, nor free for premium features)
@@ -42,7 +42,7 @@ title: "Tools"
 
 * [Homebrew](http://brew.sh/) (package manager)
 * [Objective-See](https://objective-see.com/) (security tools)
-* [Mac Backup Guru](https://macdaddy.io/mac-backup-software/) (bootable backups)
+* [Mac Backup Guru](https://macdaddy.io/mac-backup-software/) (bootable backups, neither open source, nor free)
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) (multifunction utility)
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) (help with keyboard shortcuts)
 * [Scheduler](https://www.macscheduler.net/index.html)
@@ -51,14 +51,14 @@ title: "Tools"
 
 #### Security
 
-* [pwSafe](http://pwsafe.info/) (password manager)
+* [pwSafe](http://pwsafe.info/) (password manager, not free)
 * [Cryptomator](https://cryptomator.org/) (file encryption)
 * [OnionShare](https://onionshare.org/) (secure and anonymous sharing)
 
 #### Web (including development)
 
 * [Firefox](https://www.mozilla.org/en-CA/firefox/new/) (my preferred everyday browser)
-* [Chromium](https://www.chromium.org/) (my preferred browser for certain tasks, including Google Sheets, Developer tools, etc)
+* [Chromium](https://www.chromium.org/) (my preferred browser for certain tasks, including Google Sheets, developer tools, etc)
 * [W3Schools](https://www.w3schools.com/) (web technologies reference)
 * [Jekyll](https://jekyllrb.com/) (static website generator)
 * [Hugo](https://gohugo.io/) (static website generator)
@@ -72,7 +72,7 @@ title: "Tools"
 * [Skim](https://skim-app.sourceforge.io/) (PDF reader and annotator)
 * [Textricator](https://textricator.mfj.io/) (PDF text extraction)
 * [Tabula](https://tabula.technology/) (PDF table extraction)
-* [Camelot](https://camelot-py.readthedocs.io/en/master/) (PDF table extraction) [[Excalibur](https://excalibur-py.readthedocs.io/en/master/) (web interface)]
+* [Camelot](https://camelot-py.readthedocs.io/en/master/) (PDF table extraction) / [Excalibur](https://excalibur-py.readthedocs.io/en/master/) (web interface)
 
 #### Other 
 

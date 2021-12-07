@@ -35,14 +35,14 @@ I bring the following to my consulting work:
 
 * Development of methodological approaches to examine policy research questions
 
-* More than 12 years of experience coding extensively in the R statistical programming language
+* More than twelve years of experience coding extensively in the R statistical programming language
 
-* I have taught MA-level and undergraduate statistics and served as a statistical consultant (in R and Stata)
+* Taught MA-level and undergraduate statistics and served as a statistical consultant (in R and Stata)
 
-* Editing and technical document preparation in a wide variety of formats (incl. websites)
-
-* I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation
+* Editing and technical document preparation in a wide variety of formats (incl. LaTeX and websites)
 
 \  
+
+I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation.
 
 For inquiries and my CV, please [contact](contact.html) me.
