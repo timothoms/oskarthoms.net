@@ -26,8 +26,8 @@ right:
 #   href: https://twitter.com/TimoThoms
 - text: "Links"
   menu:
-  - text: "Data"
-    href: links-data.html
+  # - text: "Data"
+  #   href: links-data.html
   - text: "R"
     href: links-r.html
   - text: "Tools"

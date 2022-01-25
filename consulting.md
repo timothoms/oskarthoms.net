@@ -11,7 +11,7 @@ I provide the following consulting services:
 
 * Quantitative data analysis and visualization 
 
-* Data science and statistical programming in R
+* Data science and statistical programming in R and Shiny (web-based data apps)
 
 * Building datasets and automated data collection (incl. webscraping)
 
@@ -32,10 +32,9 @@ I bring the following to my consulting work:
 * Meticulous attention to detail and best practices
 
 * Transparency and reproducibility of quantitative analyses 
-
 * Development of methodological approaches to examine policy research questions
 
-* More than twelve years of experience coding extensively in the R statistical programming language
+* Twelve years of experience coding extensively in the R statistical programming language
 
 * Taught MA-level and undergraduate statistics and served as a statistical consultant (in R and Stata)
 
