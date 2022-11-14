@@ -58,7 +58,6 @@ title: "Tools"
 #### Web (including development)
 
 * [Firefox](https://www.mozilla.org/en-CA/firefox/new/) (my preferred everyday browser)
-* [Chromium](https://www.chromium.org/) (my preferred browser for certain tasks, including Google Sheets, developer tools, etc)
 * [W3Schools](https://www.w3schools.com/) (web technologies reference)
 * [Jekyll](https://jekyllrb.com/) (static website generator)
 * [Hugo](https://gohugo.io/) (static website generator)

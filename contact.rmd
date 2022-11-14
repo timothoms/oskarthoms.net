@@ -12,11 +12,5 @@ title: ""
 </div>
 
 <div class = "col-md-8">
-### Contact
-
-* oskar[dot]thoms[at]mail[dot]mcgill[dot]ca
-
-* [GitHub](https://github.com/timothoms) 
-
-* [Twitter](https://twitter.com/TimoThoms)
+oskar[dot]thoms[at]mail[dot]mcgill[dot]ca
 </div>

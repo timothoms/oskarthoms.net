@@ -20,10 +20,6 @@ left:
   - text: "covid19Outaouais"
     href: https://timothoms.github.io/covid19Outaouais/
 right:
-# - icon: fa-github fa-lg
-#   href: https://github.com/timothoms
-# - icon: fa-twitter fa-lg
-#   href: https://twitter.com/TimoThoms
 - text: "Links"
   menu:
   # - text: "Data"
@@ -34,3 +30,7 @@ right:
     href: links-tools.html
 - text: "Contact"
   href: contact.html
+- icon: fa-github fa-lg
+  href: https://github.com/timothoms
+- icon: fa-twitter fa-lg
+  href: https://twitter.com/TimoThoms
