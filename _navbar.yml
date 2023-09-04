@@ -2,6 +2,7 @@ title: "Oskar Timo Thoms"
 type: default
 left:
 - text: "Consulting"
+  href: consulting.html
   menu:
   - text: "Consulting Services"
     href: consulting.html
@@ -21,16 +22,6 @@ left:
     href: https://timothoms.github.io/covid19Outaouais/
 right:
 - text: "Links"
-  menu:
-  # - text: "Data"
-  #   href: links-data.html
-  - text: "R"
-    href: links-r.html
-  - text: "Tools"
-    href: links-tools.html
-- text: "Contact"
-  href: contact.html
+  href: links.html
 - icon: fa-github fa-lg
   href: https://github.com/timothoms
-- icon: fa-twitter fa-lg
-  href: https://twitter.com/TimoThoms

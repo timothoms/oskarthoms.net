@@ -32,6 +32,7 @@ I bring the following to my consulting work:
 * Meticulous attention to detail and best practices
 
 * Transparency and reproducibility of quantitative analyses 
+
 * Development of methodological approaches to examine policy research questions
 
 * Twelve years of experience coding extensively in the R statistical programming language
@@ -44,4 +45,5 @@ I bring the following to my consulting work:
 
 I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation.
 
-For inquiries and my CV, please [contact](contact.html) me.
+For inquiries and my CV, please contact me at 
+oskar[dot]thoms[at]mail[dot]mcgill[dot]ca.
