@@ -1,27 +1,18 @@
 title: "Oskar Timo Thoms"
 type: default
 left:
+- text: "Academic"
+  href: academic.html
 - text: "Consulting"
   href: consulting.html
+- text: "Projects"
   menu:
-  - text: "Consulting Services"
-    href: consulting.html
   - text: "Lancet-SIGHT Commission Metrics Working Group"
     href: https://timothoms.github.io/LSC-MWG/
-- text: "Academic"
-  menu:
-  - text: "Research"
-    href: research.html
-  - text: "Publications"
-    href: publications.html
-  - text: "Teaching"
-    href: teaching.html
-- text: "Community"
-  menu:
-  - text: "covid19Outaouais"
+  - text: "covid19Outaouais (discontinued)"
     href: https://timothoms.github.io/covid19Outaouais/
 right:
-- text: "Links"
+- text: "Tools"
   href: links.html
 - icon: fa-github fa-lg
   href: https://github.com/timothoms

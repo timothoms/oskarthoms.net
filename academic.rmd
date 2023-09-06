@@ -1,13 +1,20 @@
 ---
-pagetitle: "Oskar Timo Thoms: Publications"
-title: "Publications"
+pagetitle: "Oskar Timo Thoms: Academic"
+title: "Academic"
 ---
 
 \  
 
-#### Scholarly Articles
+### Publications
 
-* Geoff Dancy & Oskar Timo Thoms. "Do Truth Commissions Really Improve Democracy?" Forthcoming in [*Comparative Political studies*](https://doi.org/10.1177/00104140211024305).
+#### Articles
+
+* Valerie Percival, Oskar Timo Thoms, Ben Oppenheim, Dane Rowlands, Carolyn Chisadza, Sara Fewer, Gavin Yamey, and collaborators. "Final report of the The *Lancet* Commission on peaceful societies through health
+equity and gender equality." Forthcoming in *The Lancet* (September 7, 2023).
+
+* Geoff Dancy & Oskar Timo Thoms. "Do Truth Commissions Really Improve Democracy?" [*Comparative Political Studies*](https://doi.org/10.1177/00104140211024305), Vol.55, No 4 (2022).
+
+* "Human Rights Change, Politics of Law and Order, and Targeting of Torture." [*Simons Working Papers in Security and Development no. 66/2018*](http://summit.sfu.ca/item/18289), School for International Studies, Simon Fraser University, Vancouver (November 2018). [[PDF](files/SWP2018.pdf)]
 
 * Oskar N.T. Thoms, James Ron & Roland Paris. "State-Level Effects of Transitional Justice: What Do We Know?" [*International Journal of Transitional Justice*](https://doi.org/10.1093/ijtj/ijq012), Vol.4, No. 3 (2010).
 
@@ -17,15 +24,9 @@ title: "Publications"
 
 * Howard Ramos, James Ron & Oskar N.T. Thoms. "Shaping the Media's Human Rights Agenda, 1986-2000." [*Journal of Peace Research*](https://doi.org/10.1177/0022343307078943), Vol. 44, No. 4 (July 2007).
 
-#### Working Papers
+\ 
 
-* "Police organizational structure and human rights change." Paper presented at the Canadian Political Science Association Annual Conference, Vancouver, June 6, 2019.
-
-* "Human rights and the politics of law and order." Invited to revise & resubmit.
-
-* "Human Rights Change, Politics of Law and Order, and Targeting of Torture." [*Simons Working Papers in Security and Development no. 66/2018*](http://summit.sfu.ca/item/18289), School for International Studies, Simon Fraser University, Vancouver (November 2018). [[PDF](files/SWP2018.pdf)]
-
-#### Commissioned Policy Reports
+#### Policy Reports
 
 * Oskar N.T. Thoms, James Ron & Roland Paris. "The Effects of Transitional Justice Mechanisms: A Summary of Empirical Research Findings and Implications for Analysts and Practitioners." Working Paper, Centre for International Policy Studies, University of Ottawa, April 2008. [[executive summary](http://aix1.uottawa.ca/~rparis/CIPS_Transitional_Justice_April2008_ExecSummary.pdf)]
 
@@ -33,8 +34,20 @@ title: "Publications"
 
 * Oskar N.T. Thoms & James Ron. 2006. "Do Human Rights Violations Cause Internal Conflict?" Gatineau: Canadian International Development Agency, February 28, 2006.
 
+\  
+
 #### Op-Eds
 
 * James Ron & Oskar N.T. Thoms. "The Jury is still out on International Justice." *Ottawa Citizen*, July 26th, 2008. [[PDF](files/citizenoped.pdf)]
 
 * James Ron & Oskar N.T. Thoms. "Can Canada Help Curb Civil Wars?" *The Toronto Star*, April 12th, 2006. [[PDF](files/tstaroped.pdf)]
+
+\  
+
+### Teaching
+
+* [Human Security: From Policy to Practice](/files/INAF5704_syllabus.pdf) (NPSIA, Carleton University, Winter 2020)
+
+* [Statistics for International Affairs](/files/INAF5016_syllabus.pdf) (NPSIA, Carleton University, Fall 2019)
+
+* [Transitional Justice](/files/TJ_syllabus.pdf) (SIS, Simon Fraser University, Spring 2019)
