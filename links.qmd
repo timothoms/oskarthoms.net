@@ -3,6 +3,10 @@ pagetitle: "Links"
 title: "Tools"
 ---
 
+Unless otherwise noted, listed software is open source and free. 
+
+On macOS, most can be installed with [Homebrew](http://brew.sh/).
+
 ### Statistical Programming
 
 -   [R](http://www.r-project.org)
@@ -85,6 +89,14 @@ title: "Tools"
 -   [Tabula](https://tabula.technology/) (PDF table extraction)
 -   [Camelot](https://camelot-py.readthedocs.io/en/master/) (PDF table extraction) / [Excalibur](https://excalibur-py.readthedocs.io/en/master/) (web interface)
 
+### Databases
+
+-   [SQLite](https://www.sqlite.org/) (lightweight, serverless SQL database engine)
+-   [Litestream](https://litestream.io/) (continuous SQLite replication) 
+-   [NocoDB](https://nocodb.com/) (no code cloud database platform)
+-   [Neon](https://neon.tech/) (Serverless Postgres, subscription)
+-   [Railway](https://railway.app/) (easy development cloud infrastructure, subscription)
+
 ### Web
 
 -   [Firefox](https://www.mozilla.org/en-CA/firefox/new/) (browser)
@@ -92,7 +104,7 @@ title: "Tools"
 -   [Jekyll](https://jekyllrb.com/) (static site generator)
 -   [Hugo](https://gohugo.io/) (static site generator)
 -   [Bootstrap](https://getbootstrap.com/) (front-end web framework)
--   [Gatsby](https://www.gatsbyjs.com/) (front-end web framework)
+<!-- -   [Gatsby](https://www.gatsbyjs.com/) (front-end web framework) -->
 -   [Cyberduck](https://cyberduck.io/) (cloud storage browser, i.e. FTP etc)
 -   [Colorpicker](https://colorpicker.fr/)
 
@@ -114,5 +126,3 @@ title: "Tools"
 -   [pwSafe](http://pwsafe.info/) (password manager, not free)
 -   [Cryptomator](https://cryptomator.org/) (file encryption)
 -   [OnionShare](https://onionshare.org/) (secure and anonymous sharing)
-
-Unless otherwise noted, listed software is open source and free. On macOS, most can be installed with [Homebrew](http://brew.sh/).
