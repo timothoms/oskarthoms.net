@@ -1,0 +1,118 @@
+---
+pagetitle: "Links"
+title: "Tools"
+---
+
+### Statistical Programming
+
+-   [R](http://www.r-project.org)
+-   [RStudio](https://posit.co/products/open-source/rstudio/) (open source IDE)
+-   [Shiny](http://shiny.rstudio.com/) (web application framework)
+-   [Tidyverse](http://www.tidyverse.org/) (useful packages)
+-   [RSwitch](https://rud.is/rswitch/) (macOS menubar utility)
+
+#### Books on R
+
+###### Programming
+
+-   [Advanced R](https://adv-r.hadley.nz/) \[[previous edition](http://adv-r.had.co.nz) / [(unofficial) exercise solutions](https://bookdown.org/Tazinho/Advanced-R-Solutions/)\]
+-   [R Packages](https://r-pkgs.org/)
+-   [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+-   [Efficient R programming](https://csgillespie.github.io/efficientR/)
+-   [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
+###### Data science
+
+-   [R for Data Science](http://r4ds.had.co.nz/)
+-   [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+-   [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse](https://moderndive.com/)
+-   [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
+
+###### RMarkdown
+
+-   [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+-   [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+-   [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+
+###### Visualization
+
+-   [Data Visualization: A practical introduction](http://socviz.co/)
+-   [R Graphics Cookbook](https://r-graphics.org/)
+-   [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+-   [Mastering Shiny](https://mastering-shiny.org/)
+-   [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
+
+###### Other resources for learning
+
+-   [Quick-R](http://www.statmethods.net/index.html)
+-   [Cookbook for R](http://www.cookbook-r.com/)
+-   [IDRE UCLA](http://stats.idre.ucla.edu/r/)
+-   [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/index.html)
+
+### Creating documents
+
+-   [Quarto](https://quarto.org) (publishing system)
+-   [The LaTeX Project](http://www.latex-project.org) (professional typesetting) & [macTeX](http://www.tug.org/mactex/) (distribution for macOS)
+-   [The Not So Short Introduction to LaTeX2ε](http://tug.ctan.org/info/lshort/english/lshort.pdf) (PDF)
+-   [formatting information: A beginner's introduction to typesetting with LaTeX](http://www.ctan.org/tex-archive/info/beginlatex)
+-   [Pandoc](http://pandoc.org/index.html) (powerful document converter)
+-   [Bookends](http://www.sonnysoftware.com/bookends/bookends.html) (customizable reference manager for macOS, not open source or free)
+-   [Zotero](http://www.zotero.org) (reference manager)
+-   [biblatex](http://www.ctan.org/pkg/biblatex) (state-of-the-art citations in LaTeX & Quarto)
+
+### Notes & Markdown
+
+-   [Joplin](https://joplinapp.org/) (excellent markdown notes)
+-   [Agenda](http://www.agenda.com) (great, notes linked to dates, not open source or free)
+-   [The Plain Person's Guide to Plain Text Social Science](http://plain-text.co/)
+-   [CommonMark](http://commonmark.org/) (Markdown specification)
+-   [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) (Markdown specification)
+-   [Pandoc's Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) (Markdown specification)
+-   [RMarkdown](https://rmarkdown.rstudio.com/) (Markdown specification with R computations)
+
+### Editors & Versioning
+
+-   [Sublime Text](http://www.sublimetext.com) (awesome IDE, not open source or free) \[[official documentation](http://www.sublimetext.com/docs/3/)\]
+-   [Zettlr](http://www.zettlr.com/) (IDE for writing)
+-   [Modern CSV](https://www.moderncsv.com/) (excellent CSV editor, not open source or free for some features)
+-   [git](https://git-scm.com/) \[[Pro Git book](https://git-scm.com/book/en/v2)\] & [GitHub](https://github.com/) (version control collaboration with yourself and others)
+
+### PDF
+
+-   [Skim](https://skim-app.sourceforge.io/) (PDF reader and annotator)
+-   [Textricator](https://textricator.mfj.io/) (PDF text extraction)
+-   [Tabula](https://tabula.technology/) (PDF table extraction)
+-   [Camelot](https://camelot-py.readthedocs.io/en/master/) (PDF table extraction) / [Excalibur](https://excalibur-py.readthedocs.io/en/master/) (web interface)
+
+### Web
+
+-   [Firefox](https://www.mozilla.org/en-CA/firefox/new/) (browser)
+-   [W3Schools](https://www.w3schools.com/) (web technologies reference)
+-   [Jekyll](https://jekyllrb.com/) (static site generator)
+-   [Hugo](https://gohugo.io/) (static site generator)
+-   [Bootstrap](https://getbootstrap.com/) (front-end web framework)
+-   [Gatsby](https://www.gatsbyjs.com/) (front-end web framework)
+-   [Cyberduck](https://cyberduck.io/) (cloud storage browser, i.e. FTP etc)
+-   [Colorpicker](https://colorpicker.fr/)
+
+### macOS
+
+-   [Homebrew](http://brew.sh/) (package manager)
+-   [Objective-See](https://objective-see.com/) (security tools)
+-   [Mac Backup Guru](https://macdaddy.io/mac-backup-software/) (bootable backups, not open source or free)
+-   [OnyX](https://www.titanium-software.fr/en/onyx.html) (multifunction utility)
+-   [CheatSheet](https://www.mediaatelier.com/CheatSheet/) (help with keyboard shortcuts)
+-   [Scheduler](https://www.macscheduler.net/index.html)
+-   [f.lux](https://justgetflux.com/) (adjust screen colour according to time of day)
+-   [Rectangle](https://rectangleapp.com/) (window management)
+-   [Clocker](https://abhishekbanthia.com/clocker/) (timezone tool)
+-   [Kap](https://getkap.co/) (screen recordings)
+
+### Security
+
+-   [pwSafe](http://pwsafe.info/) (password manager, not free)
+-   [Cryptomator](https://cryptomator.org/) (file encryption)
+-   [OnionShare](https://onionshare.org/) (secure and anonymous sharing)
+
+Unless otherwise noted, listed software is open source and free. On macOS, most can be installed with [Homebrew](http://brew.sh/).

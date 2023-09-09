@@ -4,3 +4,5 @@
 .Ruserdata
 _ignore/
 .DS_store
+
+/.quarto/

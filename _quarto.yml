@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: site
+  resources:
+  - "/files/*"
+
+website:
+  title: "Oskar Timo Thoms"
+  image: files/sea2sky.jpeg
+  navbar:
+    background: primary
+    left:
+    - text: "Academic"
+      href: academic.html
+    - text: "Consulting"
+      href: consulting.html
+    right:
+    - text: "Projects"
+      menu:
+      - text: "Transitional Justice Evaluation Tools GitHub"
+        href: https://github.com/tjetdata
+
+      - text: "Lancet Commission on Peaceful Societies through Health Equity and Gender Equality"
+        href: https://peacefulsocietiescommission.org/
+
+
+      - text: "Lancet Commission Metrics Working Group"
+        href: https://timothoms.github.io/LSC-MWG/
+      - text: "covid19Outaouais (discontinued)"
+        href: https://timothoms.github.io/covid19Outaouais/
+    - text: "Tools"
+      href: links.html
+    # tools:
+    #   - icon: github
+    #     href: https://github.com/timothoms
+
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc_depth: 3
+    df_print: "paged"
+    fig_width: 8
+    fig_height: 8
+    highlight: pygments
+    inlcude-in-header: "_html/header.html"
+    include-after-body: "_html/footer.html"
