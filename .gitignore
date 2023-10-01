@@ -2,7 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-_ignore/
-.DS_store
 
 /.quarto/
+
+.DS_store
+_ignore/

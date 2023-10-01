@@ -1,6 +1,5 @@
 ---
 pagetitle: "Oskar Timo Thoms: Bio"
-# title: "Oskar Timo Thoms"
 image: files/sea2sky.jpeg
 about:
   template: trestles
