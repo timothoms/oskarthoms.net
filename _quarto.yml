@@ -10,8 +10,8 @@ website:
   navbar:
     background: primary
     left:
-    - text: "Bio"
-      href: index.html
+    # - text: "Bio"
+    #   href: index.html
     - text: "Academic"
       href: academic.html
     - text: "Consulting"
@@ -38,7 +38,9 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme:
+      dark: darkly
+      light: flatly
     toc: true
     toc_depth: 3
     df_print: "paged"
