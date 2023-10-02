@@ -11,11 +11,13 @@ Starting in 2024, I will be available again to provide the following consulting 
 
 -   Quantitative data analysis and visualization
 
--   Data science and statistical programming in R and Shiny (web-based data apps)
+-   Data science and statistical programming in R 
 
--   Building datasets and automated data collection (incl. webscraping)
+-   Building datasets and data collection, incl. automated approaches (for instance, webscraping)
 
--   Building data websites with Quarto
+-   Research database management 
+
+-   Building data websites with Quarto and Shiny (web-based interactive data apps)
 
 -   Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration, Quarto)
 
