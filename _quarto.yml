@@ -15,7 +15,9 @@ website:
     right:
     - text: "Projects"
       menu:
-      - text: "Transitional Justice Evaluation Tools GitHub"
+      - text: "Transitional Justice Evaluation Tools (TJET)"
+        href: https://transitionaljusticedata.org
+      - text: "TJET GitHub"
         href: https://github.com/tjetdata
       - text: "Lancet Commission on Peaceful Societies through Health Equity and Gender Equality"
         href: https://peacefulsocietiescommission.org/

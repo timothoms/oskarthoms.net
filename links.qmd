@@ -3,8 +3,7 @@ pagetitle: "Links"
 title: "Tools"
 ---
 
-Unless otherwise noted, listed software is open source and free. 
-
+Unless otherwise noted, software below is open source and free. 
 On macOS, most can be installed with [Homebrew](http://brew.sh/).
 
 ### Statistical Programming

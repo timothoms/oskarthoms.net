@@ -5,7 +5,7 @@ title: "Academic"
 
 ## Publications
 
-### Articles
+### Peer-Reviewed
 
 -   Valerie Percival, Oskar Timo Thoms, Ben Oppenheim, Dane Rowlands, Carolyn Chisadza, Sara Fewer, Gavin Yamey, and others. Final report of "The *Lancet* Commission on peaceful societies through health equity and gender equality." [*The Lancet*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01348-X/fulltext) (September 6, 2023).
 
@@ -38,6 +38,8 @@ title: "Academic"
  
 
 ## Teaching
+
+-   Human Rights: International Politics and Policies (NPSIA, Carleton University, Summer 2022)
 
 -   [Human Security: From Policy to Practice](/files/INAF5704_syllabus.pdf) (NPSIA, Carleton University, Winter 2020)
 
