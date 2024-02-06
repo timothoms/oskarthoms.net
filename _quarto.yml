@@ -15,14 +15,14 @@ website:
     right:
     - text: "Projects"
       menu:
-      - text: "Transitional Justice Evaluation Tools (TJET)"
-        href: https://transitionaljusticedata.org
+      # - text: "Transitional Justice Evaluation Tools (TJET)"
+      #   href: https://transitionaljusticedata.org
       - text: "TJET GitHub"
         href: https://github.com/tjetdata
       - text: "Lancet Commission on Peaceful Societies through Health Equity and Gender Equality"
         href: https://peacefulsocietiescommission.org/
-      - text: "Lancet Commission Metrics Working Group"
-        href: https://timothoms.github.io/LSC-MWG/
+      # - text: "Lancet Commission Metrics Working Group"
+      #   href: https://timothoms.github.io/LSC-MWG/
       - text: "covid19Outaouais (discontinued)"
         href: https://timothoms.github.io/covid19Outaouais/
     - text: "Tools"
