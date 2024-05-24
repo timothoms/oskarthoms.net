@@ -1,11 +1,11 @@
 ---
-pagetitle: "Oskar Timo Thoms: Consulting Services"
-title: "Consulting Services"
+pagetitle: "Oskar Timo Thoms: Consulting"
+title: "Consulting"
 ---
 
  
 
-Starting in 2024, I will be available again to provide the following consulting services:
+I am available to provide the following consulting services:
 
 -   Research and writing
 
@@ -15,7 +15,7 @@ Starting in 2024, I will be available again to provide the following consulting 
 
 -   Building datasets and data collection, incl. automated approaches (for instance, webscraping)
 
--   Research database management 
+-   Database management 
 
 -   Building data websites with Quarto and Shiny (web-based interactive data apps)
 
@@ -33,13 +33,11 @@ I bring the following to my consulting work:
 
 -   Extensive experience in data management and quantitative analysis
 
--   Meticulous attention to detail and best practices
-
--   Transparency and reproducibility of quantitative analyses
+-   Meticulous attention to detail and best practices of transparency and reproducibility
 
 -   Development of methodological approaches to examine policy research questions
 
--   Fourteen years of experience coding extensively in the R statistical programming language
+-   Fifteen years of experience coding extensively in the R statistical programming language
 
 -   Taught MA-level and undergraduate statistics and served as a statistical consultant
 

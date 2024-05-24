@@ -46,7 +46,7 @@ On macOS, most can be installed with [Homebrew](http://brew.sh/).
 -   [Mastering Shiny](https://mastering-shiny.org/)
 -   [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
-###### Other resources for learning
+###### Other R resources
 
 -   [Quick-R](http://www.statmethods.net/index.html)
 -   [Cookbook for R](http://www.cookbook-r.com/)
@@ -120,8 +120,8 @@ On macOS, most can be installed with [Homebrew](http://brew.sh/).
 -   [Clocker](https://abhishekbanthia.com/clocker/) (timezone tool)
 -   [Kap](https://getkap.co/) (screen recordings)
 
-### Security
+<!-- ### Security -->
 
--   [pwSafe](http://pwsafe.info/) (password manager, not free)
--   [Cryptomator](https://cryptomator.org/) (file encryption)
--   [OnionShare](https://onionshare.org/) (secure and anonymous sharing)
+<!-- -   [pwSafe](http://pwsafe.info/) (password manager, not free) -->
+<!-- -   [Cryptomator](https://cryptomator.org/) (file encryption) -->
+<!-- -   [OnionShare](https://onionshare.org/) (secure and anonymous sharing) -->
