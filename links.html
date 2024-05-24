@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -97,13 +97,15 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./consulting.html"> 
 <span class="menu-text">Consulting</span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Projects</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-projects">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="https://transitionaljusticedata.org">
+ <span class="dropdown-text">Transitional Justice Evaluation Tools (TJET)</span></a>
+  </li>  
         <li>
     <a class="dropdown-item" href="https://github.com/tjetdata">
  <span class="dropdown-text">TJET GitHub</span></a>
@@ -118,6 +120,8 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./links.html" aria-current="page"> 
 <span class="menu-text">Tools</span></a>
@@ -147,7 +151,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#databases" id="toc-databases" class="nav-link" data-scroll-target="#databases">Databases</a></li>
   <li><a href="#web" id="toc-web" class="nav-link" data-scroll-target="#web">Web</a></li>
   <li><a href="#macos" id="toc-macos" class="nav-link" data-scroll-target="#macos">macOS</a></li>
-  <li><a href="#security" id="toc-security" class="nav-link" data-scroll-target="#security">Security</a></li>
   </ul>
 </nav>
     </div>
@@ -223,8 +226,8 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://plotly-r.com/">Interactive web-based data visualization with R, plotly, and shiny</a></li>
 </ul>
 </section>
-<section id="other-resources-for-learning" class="level6">
-<h6 class="anchored" data-anchor-id="other-resources-for-learning">Other resources for learning</h6>
+<section id="other-r-resources" class="level6">
+<h6 class="anchored" data-anchor-id="other-r-resources">Other R resources</h6>
 <ul>
 <li><a href="http://www.statmethods.net/index.html">Quick-R</a></li>
 <li><a href="http://www.cookbook-r.com/">Cookbook for R</a></li>
@@ -313,14 +316,10 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://abhishekbanthia.com/clocker/">Clocker</a> (timezone tool)</li>
 <li><a href="https://getkap.co/">Kap</a> (screen recordings)</li>
 </ul>
-</section>
-<section id="security" class="level3">
-<h3 class="anchored" data-anchor-id="security">Security</h3>
-<ul>
-<li><a href="http://pwsafe.info/">pwSafe</a> (password manager, not free)</li>
-<li><a href="https://cryptomator.org/">Cryptomator</a> (file encryption)</li>
-<li><a href="https://onionshare.org/">OnionShare</a> (secure and anonymous sharing)</li>
-</ul>
+<!-- ### Security -->
+<!-- -   [pwSafe](http://pwsafe.info/) (password manager, not free) -->
+<!-- -   [Cryptomator](https://cryptomator.org/) (file encryption) -->
+<!-- -   [OnionShare](https://onionshare.org/) (secure and anonymous sharing) -->
 
 
 </section>
@@ -550,6 +549,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/timothoms\.github\.io\/oskarthoms\.net\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -584,7 +601,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Oskar Timo Thoms: Consulting Services</title>
+<title>Oskar Timo Thoms: Consulting</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,13 +97,15 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./consulting.html" aria-current="page"> 
 <span class="menu-text">Consulting</span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Projects</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-projects">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="https://transitionaljusticedata.org">
+ <span class="dropdown-text">Transitional Justice Evaluation Tools (TJET)</span></a>
+  </li>  
         <li>
     <a class="dropdown-item" href="https://github.com/tjetdata">
  <span class="dropdown-text">TJET GitHub</span></a>
@@ -118,6 +120,8 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./links.html"> 
 <span class="menu-text">Tools</span></a>
@@ -142,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Consulting Services</h1>
+<h1 class="title">Consulting</h1>
 </div>
 
 
@@ -160,13 +164,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>&nbsp;</p>
-<p>Starting in 2024, I will be available again to provide the following consulting services:</p>
+<p>I am available to provide the following consulting services:</p>
 <ul>
 <li><p>Research and writing</p></li>
 <li><p>Quantitative data analysis and visualization</p></li>
 <li><p>Data science and statistical programming in R</p></li>
 <li><p>Building datasets and data collection, incl.&nbsp;automated approaches (for instance, webscraping)</p></li>
-<li><p>Research database management</p></li>
+<li><p>Database management</p></li>
 <li><p>Building data websites with Quarto and Shiny (web-based interactive data apps)</p></li>
 <li><p>Teaching R workshops (incl.&nbsp;RStudio, Tidyverse, git/GitHub integration, Quarto)</p></li>
 </ul>
@@ -177,10 +181,9 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Research expertise in issues of human rights, justice, and public policy</p></li>
 <li><p>First-class quantitative methods training</p></li>
 <li><p>Extensive experience in data management and quantitative analysis</p></li>
-<li><p>Meticulous attention to detail and best practices</p></li>
-<li><p>Transparency and reproducibility of quantitative analyses</p></li>
+<li><p>Meticulous attention to detail and best practices of transparency and reproducibility</p></li>
 <li><p>Development of methodological approaches to examine policy research questions</p></li>
-<li><p>Fourteen years of experience coding extensively in the R statistical programming language</p></li>
+<li><p>Fifteen years of experience coding extensively in the R statistical programming language</p></li>
 <li><p>Taught MA-level and undergraduate statistics and served as a statistical consultant</p></li>
 <li><p>Editing and technical document preparation in a wide variety of formats (incl.&nbsp;LaTeX and Quarto)</p></li>
 </ul>
@@ -415,6 +418,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/timothoms\.github\.io\/oskarthoms\.net\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -449,7 +470,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
