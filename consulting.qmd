@@ -3,9 +3,7 @@ pagetitle: "Oskar Timo Thoms: Consulting"
 title: "Consulting"
 ---
 
- 
-
-I am available to provide the following consulting services:
+Starting again in July 2026, I am available to provide the following consulting services:
 
 -   Research and writing
 
@@ -13,15 +11,15 @@ I am available to provide the following consulting services:
 
 -   Data science and statistical programming in R 
 
--   Building datasets and data collection, incl. automated approaches (for instance, webscraping)
+-   Building datasets and data collection, incl. automated approaches (webscraping, APIs, etc)
 
 -   Database management 
 
 -   Building data websites with Quarto and Shiny (web-based interactive data apps)
 
--   Teaching R workshops (incl. RStudio, Tidyverse, git/GitHub integration, Quarto)
+-   Teaching R workshops (incl. Tidyverse, git/GitHub integration, Quarto, RStudio, Positron)
 
- 
+\\
 
 I bring the following to my consulting work:
 
@@ -37,14 +35,14 @@ I bring the following to my consulting work:
 
 -   Development of methodological approaches to examine policy research questions
 
--   Fifteen years of experience coding extensively in the R statistical programming language
+-   Sixteen years of experience coding extensively in the R statistical programming language
 
 -   Taught MA-level and undergraduate statistics and served as a statistical consultant
 
 -   Editing and technical document preparation in a wide variety of formats (incl. LaTeX and Quarto)
 
- 
+\\
 
-I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation.
+I have worked as a consultant on policy research projects funded by the Department of Foreign Affairs and International Trade, the Canadian International Development Agency (both now Global Affairs Canada), the International Development Research Centre, and the Swedish Institute for Global Health Transformation, and have provided data science services to the NGO Humanitarian Outcomes.
 
 For inquiries and my CV, please [contact me](index.html).

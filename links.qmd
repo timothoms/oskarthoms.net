@@ -9,7 +9,8 @@ On macOS, most can be installed with [Homebrew](http://brew.sh/).
 ### Statistical Programming
 
 -   [R](http://www.r-project.org)
--   [RStudio](https://posit.co/products/open-source/rstudio/) (open source IDE)
+-   [RStudio](https://posit.co/products/open-source/rstudio/) (open source R IDE)
+-   [Positron](https://positron.posit.co/) (open source data science IDE)
 -   [Shiny](http://shiny.rstudio.com/) (web application framework)
 -   [Tidyverse](http://www.tidyverse.org/) (useful packages)
 -   [RSwitch](https://rud.is/rswitch/) (macOS menubar utility)
@@ -46,7 +47,7 @@ On macOS, most can be installed with [Homebrew](http://brew.sh/).
 -   [Mastering Shiny](https://mastering-shiny.org/)
 -   [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
-###### Other R resources
+###### Other resources
 
 -   [Quick-R](http://www.statmethods.net/index.html)
 -   [Cookbook for R](http://www.cookbook-r.com/)
@@ -66,7 +67,7 @@ On macOS, most can be installed with [Homebrew](http://brew.sh/).
 
 ### Notes & Markdown
 
--   [Joplin](https://joplinapp.org/) (excellent markdown notes)
+<!-- -   [Joplin](https://joplinapp.org/) (excellent markdown notes) -->
 -   [Agenda](http://www.agenda.com) (great, notes linked to dates, not open source or free)
 -   [The Plain Person's Guide to Plain Text Social Science](http://plain-text.co/)
 -   [CommonMark](http://commonmark.org/) (Markdown specification)
@@ -76,8 +77,8 @@ On macOS, most can be installed with [Homebrew](http://brew.sh/).
 
 ### Editors & Versioning
 
--   [Sublime Text](http://www.sublimetext.com) (awesome IDE, not open source or free) \[[official documentation](http://www.sublimetext.com/docs/3/)\]
--   [Zettlr](http://www.zettlr.com/) (IDE for writing)
+-   [Sublime Text](http://www.sublimetext.com) (excellent IDE, not open source or free) \[[official documentation](http://www.sublimetext.com/docs/3/)\]
+<!-- -   [Zettlr](http://www.zettlr.com/) (writing IDE) -->
 -   [Modern CSV](https://www.moderncsv.com/) (excellent CSV editor, not open source or free for some features)
 -   [git](https://git-scm.com/) \[[Pro Git book](https://git-scm.com/book/en/v2)\] & [GitHub](https://github.com/) (version control collaboration with yourself and others)
 
@@ -91,31 +92,32 @@ On macOS, most can be installed with [Homebrew](http://brew.sh/).
 ### Databases
 
 -   [SQLite](https://www.sqlite.org/) (lightweight, serverless SQL database engine)
--   [Litestream](https://litestream.io/) (continuous SQLite replication) 
--   [NocoDB](https://nocodb.com/) (no code cloud database platform)
+<!-- -   [Litestream](https://litestream.io/) (continuous SQLite replication) -->
+-   [Teable](https://teable.ai/) (no code cloud or self-hosted database platform)
+-   [NocoDB](https://nocodb.com/) (no code cloud or self-hosted database platform)
 -   [Neon](https://neon.tech/) (Serverless Postgres, subscription)
 -   [Railway](https://railway.app/) (easy development cloud infrastructure, subscription)
 
-### Web
+### Other 
 
 -   [Firefox](https://www.mozilla.org/en-CA/firefox/new/) (browser)
 -   [W3Schools](https://www.w3schools.com/) (web technologies reference)
--   [Jekyll](https://jekyllrb.com/) (static site generator)
--   [Hugo](https://gohugo.io/) (static site generator)
--   [Bootstrap](https://getbootstrap.com/) (front-end web framework)
+<!-- -   [Jekyll](https://jekyllrb.com/) (static site generator) -->
+<!-- -   [Hugo](https://gohugo.io/) (static site generator) -->
+<!-- -   [Bootstrap](https://getbootstrap.com/) (front-end web framework) -->
 <!-- -   [Gatsby](https://www.gatsbyjs.com/) (front-end web framework) -->
 -   [Cyberduck](https://cyberduck.io/) (cloud storage browser, i.e. FTP etc)
 -   [Colorpicker](https://colorpicker.fr/)
 
-### macOS
+### macOS Utilities
 
 -   [Homebrew](http://brew.sh/) (package manager)
 -   [Objective-See](https://objective-see.com/) (security tools)
 -   [Mac Backup Guru](https://macdaddy.io/mac-backup-software/) (bootable backups, not open source or free)
 -   [OnyX](https://www.titanium-software.fr/en/onyx.html) (multifunction utility)
 -   [CheatSheet](https://www.mediaatelier.com/CheatSheet/) (help with keyboard shortcuts)
--   [Scheduler](https://www.macscheduler.net/index.html)
--   [f.lux](https://justgetflux.com/) (adjust screen colour according to time of day)
+<!-- -   [Scheduler](https://www.macscheduler.net/index.html) -->
+<!-- -   [f.lux](https://justgetflux.com/) (adjust screen colour according to time of day) -->
 -   [Rectangle](https://rectangleapp.com/) (window management)
 -   [Clocker](https://abhishekbanthia.com/clocker/) (timezone tool)
 -   [Kap](https://getkap.co/) (screen recordings)

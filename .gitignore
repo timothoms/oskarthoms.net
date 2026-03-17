@@ -8,3 +8,5 @@
 
 .DS_store
 _ignore/
+
+**/*.quarto_ipynb

@@ -7,19 +7,28 @@ title: "Academic"
 
 ### Peer-Reviewed
 
+- Geoff Dancy, Oskar Timo Thoms, Phuong Pham, Kathryn Sikkink, & Patrick Vinck. "Introducing the Transitional Justice Evaluation Tools (TJET) Database." [*Journal of Peace Research*](https://doi.org/10.1177/00223433251360200), Vol. 62. No. 7 (December 2025)
+2025
+
+-   Geoff Dancy & Oskar Timo Thoms. "Transitional Justice and the Problem of Democratic Decline." [*International Journal of Transitional Justice*](https://academic.oup.com/ijtj/article/19/1/36/7933724), Vol. 19, No. 1 (March 2025).
+
 -   Valerie Percival, Oskar Timo Thoms, Ben Oppenheim, Dane Rowlands, Carolyn Chisadza, Sara Fewer, Gavin Yamey, and others. Final report of "The *Lancet* Commission on peaceful societies through health equity and gender equality." [*The Lancet*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01348-X/fulltext) (September 6, 2023).
 
--   Geoff Dancy & Oskar Timo Thoms. "Do Truth Commissions Really Improve Democracy?" [*Comparative Political Studies*](https://doi.org/10.1177/00104140211024305), Vol.55, No 4 (2022).
+-   Geoff Dancy & Oskar Timo Thoms. "Do Truth Commissions Really Improve Democracy?" [*Comparative Political Studies*](https://doi.org/10.1177/00104140211024305), Vol. 55, No. 4 (2022).
 
 -   "Human Rights Change, Politics of Law and Order, and Targeting of Torture." [*Simons Working Papers in Security and Development no. 66/2018*](http://summit.sfu.ca/item/18289), School for International Studies, Simon Fraser University, Vancouver (November 2018). \[[PDF](files/SWP2018.pdf)\]
 
--   Oskar N.T. Thoms, James Ron & Roland Paris. "State-Level Effects of Transitional Justice: What Do We Know?" [*International Journal of Transitional Justice*](https://doi.org/10.1093/ijtj/ijq012), Vol.4, No. 3 (2010).
+-   Oskar N.T. Thoms, James Ron & Roland Paris. "State-Level Effects of Transitional Justice: What Do We Know?" [*International Journal of Transitional Justice*](https://doi.org/10.1093/ijtj/ijq012), Vol. 4, No. 3 (2010).
 
 -   Oskar N.T. Thoms & James Ron. "Public health, Conflict and Human Rights: Toward a Collaborative Research Agenda." [*Conflict & Health*](https://doi.org/10.1186/1752-1505-1-11), Vol. 1, No. 11 (Nov 2007). \[[PDF](http://www.conflictandhealth.com/content/pdf/1752-1505-1-11.pdf)\]
 
 -   Oskar N.T. Thoms & James Ron. "Do Human Rights Violations Cause Internal Conflict?" [*Human Rights Quarterly*](https://doi.org/10.1353/hrq.2007.0034), Vol. 29, No. 3 (August 2007).
 
 -   Howard Ramos, James Ron & Oskar N.T. Thoms. "Shaping the Media's Human Rights Agenda, 1986-2000." [*Journal of Peace Research*](https://doi.org/10.1177/0022343307078943), Vol. 44, No. 4 (July 2007).
+
+### Data 
+
+- Geoff Dancy, Phuong Pham, Kathryn Sikkink, Oskar Timo Thoms, and Patrick Vinck, "TJET Database of Transitional Justice Mechanisms, 1970-2020." Toronto: Transitional Justice Evaluation Tools, April 30, 2024.  [https://transitionaljusticedata.org](https://transitionaljusticedata.org).
 
 ### Policy Reports
 
@@ -35,13 +44,6 @@ title: "Academic"
 
 -   James Ron & Oskar N.T. Thoms. "Can Canada Help Curb Civil Wars?" [*The Toronto Star*](files/tstaroped.pdf), April 12th, 2006.
 
- 
-
-## Data 
-
-- Geoff Dancy, Phuong Pham, Kathryn Sikkink, Oskar Timo Thoms, and Patrick Vinck, "TJET Database of Transitional Justice Mechanisms, 1970-2020." Toronto: Transitional Justice Evaluation Tools, April 30, 2024.  [https://transitionaljusticedata.org](https://transitionaljusticedata.org).
-
- 
 
 ## Teaching
 
